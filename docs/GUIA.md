@@ -39,4 +39,3 @@ git add .
 git commit -m "Actualizacion de documentacion"
 git push origin main
 
-- [Guía del proyecto](docs/GUIA.md)
