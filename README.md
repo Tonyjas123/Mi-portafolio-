@@ -46,3 +46,5 @@ Para ver el estado del proyecto uso `git status`.
 git add .
 git commit -m "Actualiza el README"
 git push origin main
+```
+- [Guía del proyecto](docs/GUIA.md)
